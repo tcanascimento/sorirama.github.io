@@ -22,8 +22,8 @@ title: Associação de Moradores do Jardim Sorirama
 email: jdsorirama@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Página dedicada à associação de Moradores do Jardim Sorirama. Aqui são disponibilizadas notícias gerais sobre o bairro, informações úteis bem como documentos.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/sorirama.github.io" # the subpath of your site, e.g. /blog
+url: http://tcanascimento.github.io # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
