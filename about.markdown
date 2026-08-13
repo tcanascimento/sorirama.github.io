@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre
-permalink: /about/
+permalink: /sobre/
 ---
 
 O Jardim Sorirama é um loteamento desenvolvido pelo proprietário original, Antonio Saraiva Filho (Fazenda Belmonte) em meados dos anos 1950.
