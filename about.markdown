@@ -4,15 +4,12 @@ title: Sobre
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+O Jardim Sorirama é um loteamento desenvolvido pelo proprietário original, Antonio Saraiva Filho (Fazenda Belmonte) em meados dos anos 1950.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+A planta original cobria área de cerca de 19 ha (0,19 Km2), contendo originalmente 307 lotes e atualmente considerados 224 lotes, sendo 36 vagos (mar/2025).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Mapa da planta original: ![planta original](/assets/images/sorirama-mapa-antigo.jpg)
 
+Planta atual do loteamento: ![planta nova](/assets/images/sorirama-mapa-atual.jpg)
 
-[jekyll-organization]: https://github.com/jekyll
+Informações mais detalhadas podem ser encontradas no [Estudo de Impacto de Vizinhança (EIV)](/assets/docs/EIV.CIS.pdf){:target="_blank"} do Cinturão de Segurança (CIS) do Jardim Sorirama, em análise pela Prefeitura de Campinas.
